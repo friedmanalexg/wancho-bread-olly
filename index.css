@@ -14,6 +14,22 @@ html, body {
     margin: 30px auto;
 }
 
+#title-text {
+    text-align: center;
+    font-size: 36px;
+    font-family: 'Dancing Script', cursive;
+
+
+}
+
+#marketing-text {
+    text-align: center;
+    font-size: 18px;
+    font-family: 'Rubik', sans-serif;
+
+
+}
+
 img {
     width: 150px;
     margin: 0 auto;
