@@ -7,4 +7,4 @@ It is programmed in JavaScript, HTML, and CSS. It uses Firebase for online datab
 a clone of @rafidhoda 's shopping list firebase tutorial
 you can follow along here and come up with something similar https://scrimba.com/learn/firebase
 
-Are we wired up?
+Are we wired up? Yes we appear to be.
